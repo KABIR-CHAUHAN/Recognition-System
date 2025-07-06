@@ -32,16 +32,12 @@ An intelligent system that leverages AI models to perform accurate detection, cl
 
 Clone the repository and install the dependencies:
 
-```bash
 git clone https://github.com/your-username/RecognitionSystem.git
 cd RecognitionSystem
 pip install -r requirements.txt
 💡 Usage
 Example for running the recognition system:
 
-bash
-Copy
-Edit
 python recognitionsystem.py
 Depending on your configuration, the system can perform:
 
@@ -50,18 +46,12 @@ Depending on your configuration, the system can perform:
 ✅ Document Classification
 
 ✨ Example (Speech Recognition)
-vbnet
-Copy
-Edit
 Starting Recognition System...
 Listening for command...
 
 Detected Command: "Turn on the lights"
 Action: Lights switched on
 📁 Project Structure
-bash
-Copy
-Edit
 ├── recognitionsystem.py      # Main script
 ├── models/                   # Pre-trained models or checkpoints
 ├── utils/                    # Utility functions
