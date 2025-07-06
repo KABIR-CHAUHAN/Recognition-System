@@ -56,10 +56,14 @@ Action: Lights switched on
 📁 Project Structure
 
 ├── recognitionsystem.py      # Main script
+<br>
 ├── models/                   # Pre-trained models or checkpoints
+<br>
 ├── utils/                    # Utility functions
+<br>
 ├── requirements.txt          # Dependencies
-└── README.md                 # Project description
+<br>
+└── README.md                 # Project description<br>
 📚 Future Improvements
 Real-time recognition with GUI
 
