@@ -50,8 +50,11 @@ Starting Recognition System...
 Listening for command...
 
 Detected Command: "Turn on the lights"
+
 Action: Lights switched on
+
 📁 Project Structure
+
 ├── recognitionsystem.py      # Main script
 ├── models/                   # Pre-trained models or checkpoints
 ├── utils/                    # Utility functions
